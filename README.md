@@ -58,14 +58,6 @@ StonePaperScissors/
 - Add animations for choices
 - Make it mobile-friendly with touch support
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Abhinawsingh242/StonePaperScissors/issues).
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👤 Author
 
 **Abhinaw Singh**
