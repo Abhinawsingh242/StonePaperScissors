@@ -7,7 +7,6 @@ A simple and fun browser-based Stone Paper Scissors (Rock Paper Scissors) game b
 [Play the game here](https://abhinawsingh242.github.io/StonePaperScissors/)
 
 ## 📸 Preview
-## 📸 Preview
 <img width="2940" height="1912" alt="EB3FBA61-04B7-48D9-B46D-83410FB71E2A" src="https://github.com/user-attachments/assets/5ee72749-b3ba-41a1-b420-d67026c352bd" />
 
 
