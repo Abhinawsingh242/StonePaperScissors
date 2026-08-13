@@ -41,10 +41,13 @@ A simple and fun browser-based Stone Paper Scissors (Rock Paper Scissors) game b
 ## 📁 Project Structure
 
 StonePaperScissors/
+
 ├── images/ # Game images/icons
 
 ├── app.js # Game logic
+
 ├── index.html # Main HTML structure
+
 └── style.css # Styling
 
 
